@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Trabajador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Trabajador\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Nombre\ Direcci\u00F3n\ Sexo\ Edad\ Salario
+comment1.target=Trabajador(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ float)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Trabajdor\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString\r\n\ \r\n
+comment3.params=t1\ t2
+comment3.target=java.lang.String\ Equals(Trabajador,\ Trabajador)
+comment3.text=\r\n\ equals\ Persona\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ Imprimir()
+comment4.text=\r\n\ Imprimir\r\n\ \r\n
+numComments=5

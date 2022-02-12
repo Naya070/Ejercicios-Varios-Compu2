@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CualquierBase
+comment1.params=numEntrada
+comment1.target=CualquierBase(java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ CualquierBase\r\n\ Ingrese\ un\ n\u00FAmero\ hexadecimal\r\n\ el\ n\u00FAmero\ debe\ ir\ entre\ comillas\r\n\ Las\ letras\ deben\ ir\ en\ may\u00FAsculas\r\n\ Ejemplos\:\ "1A2"\ ,\ "FFF"\r\n
+comment2.params=BaseRequerida
+comment2.target=java.lang.String\ ConvCualquierBase(double)
+comment2.text=\r\n\ Este\ m\u00E9todo\ transforma\ de\ hexadecimal\ a\ cualquier\ base.\r\n\ ingrese\ la\ base\ a\ la\ que\ desea\ convertir\r\n\ su\ hexadecimal\r\n\ La\ base\ debe\ se\ un\ entero\ no\ mayor\ a\ 36\r\nEjempo\:\ 2,\ 15,\ 20.\r\n
+numComments=3
